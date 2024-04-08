@@ -1,5 +1,7 @@
 # refs-in-vue
 
+![Someone is wrong on the internet](https://imgs.xkcd.com/comics/duty_calls.png)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
